@@ -1,0 +1,29 @@
+.infor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    height:90vh ;  }
+.infor h1{
+    color: #171717;
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.infor hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+}
+.infor_item{
+    margin-top: 50px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* chia làm 4 cột */
+    grid-column-gap: 150px; /* khoảng cách giữa các cột */
+    grid-row-gap: 20px; /* khoảng cách giữa các hàng cột */
+}
+
+
+
+

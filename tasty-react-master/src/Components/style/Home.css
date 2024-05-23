@@ -1,0 +1,12 @@
+.Home video{
+    position: absolute;
+    height: 80%;
+    width: 100%;
+    top: 30;
+    bottom: 20;
+    left: 0;
+    object-fit: cover;
+}
+.home-text-section{
+    margin-left: 50px;
+}

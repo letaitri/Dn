@@ -1,0 +1,25 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    height:90vh ;  }
+.menu h1{
+    color: #171717;
+    font-size: 50px;
+    font-weight: 600;
+}
+.menu hr{
+    width: 100px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+.collections{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* chia làm 4 cột */
+    grid-column-gap: 150px; /* khoảng cách giữa các cột */
+    grid-row-gap: 20px; /* khoảng cách giữa các hàng cột */
+}

@@ -1,0 +1,50 @@
+{
+  "name": "ogani",
+  "version": "0.0.0",
+  "scripts": {
+    "react-scripts": "react-scripts",
+    "start": "react-scripts serve",
+    "build": "react-scripts build",
+    "watch": "react-scripts build --watch --configuration development",
+    "test": "react-scripts test"
+  },
+  "private": true,
+  "dependencies": {
+    "@areact-scriptsular-slider/react-scriptsx-slider": "^2.0.4",
+    "@areact-scriptsular/animations": "^15.0.0",
+    "@areact-scriptsular/common": "^15.0.0",
+    "@areact-scriptsular/compiler": "^15.0.0",
+    "@areact-scriptsular/core": "^15.0.0",
+    "@areact-scriptsular/forms": "^15.0.0",
+    "@areact-scriptsular/platform-browser": "^15.0.0",
+    "@areact-scriptsular/platform-browser-dynamic": "^15.0.0",
+    "@areact-scriptsular/router": "^15.0.0",
+    "@fortawesome/areact-scriptsular-fontawesome": "^0.12.1",
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@react-scripts-bootstrap/react-scripts-bootstrap": "^14.0.1",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "react-scriptsx-owl-carousel-o": "^15.0.0",
+    "primeflex": "^3.3.0",
+    "primereact-scripts": "^15.2.0",
+    "rxjs": "~7.5.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.12.0"
+  },
+  "devDependencies": {
+    "@areact-scriptsular-devkit/build-areact-scriptsular": "^15.0.4",
+    "@areact-scriptsular/cli": "~15.0.4",
+    "@areact-scriptsular/compiler-cli": "^15.0.0",
+    "@areact-scriptsular/localize": "^15.0.0",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.5.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.0.0",
+    "typescript": "~4.8.2"
+  }
+}
